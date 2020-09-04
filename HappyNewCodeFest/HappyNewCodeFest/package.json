@@ -29,7 +29,7 @@
         "file-loader": "^1.1.6",
         "font-awesome": "^4.7.0",
         "font-awesome-sass-loader": "^2.0.1",
-        "node-sass": "^4.10.0",
+        "node-sass": "^4.13.1",
         "path": "^0.12.7",
         "prop-types": "^15.6.0",
         "react": "^16.2.0",
